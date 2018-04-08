@@ -6,8 +6,8 @@
 //___COPYRIGHT___
 //
 
-#ifndef _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
-#define _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
+#ifndef _____FILEBASENAMEASIDENTIFIER____SCENE_H__
+#define _____FILEBASENAMEASIDENTIFIER____SCENE_H__
 
 #include "cocos2d.h"
 
@@ -27,4 +27,4 @@ private:
 
 };
 
-#endif /* defined(_____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____) */
+#endif /* defined(_____FILEBASENAMEASIDENTIFIER____SCENE_H__) */
